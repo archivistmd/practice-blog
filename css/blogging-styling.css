@@ -1,0 +1,30 @@
+.header {
+  text-align: center;
+}
+.posts {
+  margin: auto;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  width: 60%;
+  box-sizing: border-box;
+  border: 2px black;
+  padding: 4px;
+  background-color: tan;
+  display: block;
+}
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+.post-image {
+  margin: auto;
+  width: 90%;
+  height: auto;
+}
+.pfp-image {
+  margin: auto;
+  width: 40%;
+  height: auto;
+}
